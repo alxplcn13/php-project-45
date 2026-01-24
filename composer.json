@@ -1,0 +1,21 @@
+{
+    "name": "hexlet/code",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alex",
+            "email": "ieaiaiao@gmail.com"
+        }
+    ],
+    "require": {},
+    "description": "U",
+    "bin": [
+ 	 "bin/brain-games"
+    ]
+}
