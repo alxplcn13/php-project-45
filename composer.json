@@ -13,9 +13,11 @@
             "email": "ieaiaiao@gmail.com"
         }
     ],
-    "require": {},
     "description": "U",
     "bin": [
  	 "bin/brain-games"
-    ]
+    ],
+    "require": {
+        "wp-cli/php-cli-tools": "^0.12.7"
+    }
 }
